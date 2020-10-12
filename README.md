@@ -1,1 +1,1 @@
-# Project GNL from 42Paris
+# GNL Project from 42Paris
